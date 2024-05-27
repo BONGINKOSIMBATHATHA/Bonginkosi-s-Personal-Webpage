@@ -130,3 +130,9 @@ h5 {
         width:98.7%;
   }
 }
+.historical-places-images{
+    width: 220px;
+    border-radius: 15px;
+    margin: 0.7em 0;  
+
+}
